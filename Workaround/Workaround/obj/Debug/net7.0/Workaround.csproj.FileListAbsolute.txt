@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/RiderProjects/Workaround/Workaround/bin/Debug/net7.0/Workaround
+/Users/osmanbatuhankalkan/RiderProjects/Workaround/Workaround/bin/Debug/net7.0/Workaround.deps.json
+/Users/osmanbatuhankalkan/RiderProjects/Workaround/Workaround/bin/Debug/net7.0/Workaround.runtimeconfig.json
+/Users/osmanbatuhankalkan/RiderProjects/Workaround/Workaround/bin/Debug/net7.0/Workaround.dll
+/Users/osmanbatuhankalkan/RiderProjects/Workaround/Workaround/bin/Debug/net7.0/Workaround.pdb
+/Users/osmanbatuhankalkan/RiderProjects/Workaround/Workaround/obj/Debug/net7.0/Workaround.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/RiderProjects/Workaround/Workaround/obj/Debug/net7.0/Workaround.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/RiderProjects/Workaround/Workaround/obj/Debug/net7.0/Workaround.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/RiderProjects/Workaround/Workaround/obj/Debug/net7.0/Workaround.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/RiderProjects/Workaround/Workaround/obj/Debug/net7.0/Workaround.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/RiderProjects/Workaround/Workaround/obj/Debug/net7.0/Workaround.dll
+/Users/osmanbatuhankalkan/RiderProjects/Workaround/Workaround/obj/Debug/net7.0/refint/Workaround.dll
+/Users/osmanbatuhankalkan/RiderProjects/Workaround/Workaround/obj/Debug/net7.0/Workaround.pdb
+/Users/osmanbatuhankalkan/RiderProjects/Workaround/Workaround/obj/Debug/net7.0/Workaround.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/RiderProjects/Workaround/Workaround/obj/Debug/net7.0/ref/Workaround.dll
