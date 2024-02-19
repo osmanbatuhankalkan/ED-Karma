@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/RiderProjects/ED-Arrays/ED-Arrays/bin/Debug/net7.0/ED-Arrays
+/Users/osmanbatuhankalkan/RiderProjects/ED-Arrays/ED-Arrays/bin/Debug/net7.0/ED-Arrays.deps.json
+/Users/osmanbatuhankalkan/RiderProjects/ED-Arrays/ED-Arrays/bin/Debug/net7.0/ED-Arrays.runtimeconfig.json
+/Users/osmanbatuhankalkan/RiderProjects/ED-Arrays/ED-Arrays/bin/Debug/net7.0/ED-Arrays.dll
+/Users/osmanbatuhankalkan/RiderProjects/ED-Arrays/ED-Arrays/bin/Debug/net7.0/ED-Arrays.pdb
+/Users/osmanbatuhankalkan/RiderProjects/ED-Arrays/ED-Arrays/obj/Debug/net7.0/ED-Arrays.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/RiderProjects/ED-Arrays/ED-Arrays/obj/Debug/net7.0/ED-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/RiderProjects/ED-Arrays/ED-Arrays/obj/Debug/net7.0/ED-Arrays.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/RiderProjects/ED-Arrays/ED-Arrays/obj/Debug/net7.0/ED-Arrays.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/RiderProjects/ED-Arrays/ED-Arrays/obj/Debug/net7.0/ED-Arrays.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/RiderProjects/ED-Arrays/ED-Arrays/obj/Debug/net7.0/ED-Arrays.dll
+/Users/osmanbatuhankalkan/RiderProjects/ED-Arrays/ED-Arrays/obj/Debug/net7.0/refint/ED-Arrays.dll
+/Users/osmanbatuhankalkan/RiderProjects/ED-Arrays/ED-Arrays/obj/Debug/net7.0/ED-Arrays.pdb
+/Users/osmanbatuhankalkan/RiderProjects/ED-Arrays/ED-Arrays/obj/Debug/net7.0/ED-Arrays.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/RiderProjects/ED-Arrays/ED-Arrays/obj/Debug/net7.0/ref/ED-Arrays.dll
