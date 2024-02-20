@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/RiderProjects/ED-ODEV-5-UDEMY/ED-ODEV-5-UDEMY/bin/Debug/net7.0/ED-ODEV-5-UDEMY
+/Users/osmanbatuhankalkan/RiderProjects/ED-ODEV-5-UDEMY/ED-ODEV-5-UDEMY/bin/Debug/net7.0/ED-ODEV-5-UDEMY.deps.json
+/Users/osmanbatuhankalkan/RiderProjects/ED-ODEV-5-UDEMY/ED-ODEV-5-UDEMY/bin/Debug/net7.0/ED-ODEV-5-UDEMY.runtimeconfig.json
+/Users/osmanbatuhankalkan/RiderProjects/ED-ODEV-5-UDEMY/ED-ODEV-5-UDEMY/bin/Debug/net7.0/ED-ODEV-5-UDEMY.dll
+/Users/osmanbatuhankalkan/RiderProjects/ED-ODEV-5-UDEMY/ED-ODEV-5-UDEMY/bin/Debug/net7.0/ED-ODEV-5-UDEMY.pdb
+/Users/osmanbatuhankalkan/RiderProjects/ED-ODEV-5-UDEMY/ED-ODEV-5-UDEMY/obj/Debug/net7.0/ED-ODEV-5-UDEMY.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/RiderProjects/ED-ODEV-5-UDEMY/ED-ODEV-5-UDEMY/obj/Debug/net7.0/ED-ODEV-5-UDEMY.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/RiderProjects/ED-ODEV-5-UDEMY/ED-ODEV-5-UDEMY/obj/Debug/net7.0/ED-ODEV-5-UDEMY.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/RiderProjects/ED-ODEV-5-UDEMY/ED-ODEV-5-UDEMY/obj/Debug/net7.0/ED-ODEV-5-UDEMY.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/RiderProjects/ED-ODEV-5-UDEMY/ED-ODEV-5-UDEMY/obj/Debug/net7.0/ED-ODEV-5-UDEMY.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/RiderProjects/ED-ODEV-5-UDEMY/ED-ODEV-5-UDEMY/obj/Debug/net7.0/ED-ODEV-5-UDEMY.dll
+/Users/osmanbatuhankalkan/RiderProjects/ED-ODEV-5-UDEMY/ED-ODEV-5-UDEMY/obj/Debug/net7.0/refint/ED-ODEV-5-UDEMY.dll
+/Users/osmanbatuhankalkan/RiderProjects/ED-ODEV-5-UDEMY/ED-ODEV-5-UDEMY/obj/Debug/net7.0/ED-ODEV-5-UDEMY.pdb
+/Users/osmanbatuhankalkan/RiderProjects/ED-ODEV-5-UDEMY/ED-ODEV-5-UDEMY/obj/Debug/net7.0/ED-ODEV-5-UDEMY.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/RiderProjects/ED-ODEV-5-UDEMY/ED-ODEV-5-UDEMY/obj/Debug/net7.0/ref/ED-ODEV-5-UDEMY.dll
