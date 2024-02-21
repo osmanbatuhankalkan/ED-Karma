@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/RiderProjects/ED-Listeler/ED-Listeler/bin/Debug/net7.0/ED-Listeler
+/Users/osmanbatuhankalkan/RiderProjects/ED-Listeler/ED-Listeler/bin/Debug/net7.0/ED-Listeler.deps.json
+/Users/osmanbatuhankalkan/RiderProjects/ED-Listeler/ED-Listeler/bin/Debug/net7.0/ED-Listeler.runtimeconfig.json
+/Users/osmanbatuhankalkan/RiderProjects/ED-Listeler/ED-Listeler/bin/Debug/net7.0/ED-Listeler.dll
+/Users/osmanbatuhankalkan/RiderProjects/ED-Listeler/ED-Listeler/bin/Debug/net7.0/ED-Listeler.pdb
+/Users/osmanbatuhankalkan/RiderProjects/ED-Listeler/ED-Listeler/obj/Debug/net7.0/ED-Listeler.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/RiderProjects/ED-Listeler/ED-Listeler/obj/Debug/net7.0/ED-Listeler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/RiderProjects/ED-Listeler/ED-Listeler/obj/Debug/net7.0/ED-Listeler.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/RiderProjects/ED-Listeler/ED-Listeler/obj/Debug/net7.0/ED-Listeler.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/RiderProjects/ED-Listeler/ED-Listeler/obj/Debug/net7.0/ED-Listeler.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/RiderProjects/ED-Listeler/ED-Listeler/obj/Debug/net7.0/ED-Listeler.dll
+/Users/osmanbatuhankalkan/RiderProjects/ED-Listeler/ED-Listeler/obj/Debug/net7.0/refint/ED-Listeler.dll
+/Users/osmanbatuhankalkan/RiderProjects/ED-Listeler/ED-Listeler/obj/Debug/net7.0/ED-Listeler.pdb
+/Users/osmanbatuhankalkan/RiderProjects/ED-Listeler/ED-Listeler/obj/Debug/net7.0/ED-Listeler.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/RiderProjects/ED-Listeler/ED-Listeler/obj/Debug/net7.0/ref/ED-Listeler.dll
