@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/RiderProjects/Class-Yapilarini-Anlamak/Class-Yapilarini-Anlamak/bin/Debug/net7.0/Class-Yapilarini-Anlamak
+/Users/osmanbatuhankalkan/RiderProjects/Class-Yapilarini-Anlamak/Class-Yapilarini-Anlamak/bin/Debug/net7.0/Class-Yapilarini-Anlamak.deps.json
+/Users/osmanbatuhankalkan/RiderProjects/Class-Yapilarini-Anlamak/Class-Yapilarini-Anlamak/bin/Debug/net7.0/Class-Yapilarini-Anlamak.runtimeconfig.json
+/Users/osmanbatuhankalkan/RiderProjects/Class-Yapilarini-Anlamak/Class-Yapilarini-Anlamak/bin/Debug/net7.0/Class-Yapilarini-Anlamak.dll
+/Users/osmanbatuhankalkan/RiderProjects/Class-Yapilarini-Anlamak/Class-Yapilarini-Anlamak/bin/Debug/net7.0/Class-Yapilarini-Anlamak.pdb
+/Users/osmanbatuhankalkan/RiderProjects/Class-Yapilarini-Anlamak/Class-Yapilarini-Anlamak/obj/Debug/net7.0/Class-Yapilarini-Anlamak.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/RiderProjects/Class-Yapilarini-Anlamak/Class-Yapilarini-Anlamak/obj/Debug/net7.0/Class-Yapilarini-Anlamak.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/RiderProjects/Class-Yapilarini-Anlamak/Class-Yapilarini-Anlamak/obj/Debug/net7.0/Class-Yapilarini-Anlamak.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/RiderProjects/Class-Yapilarini-Anlamak/Class-Yapilarini-Anlamak/obj/Debug/net7.0/Class-Yapilarini-Anlamak.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/RiderProjects/Class-Yapilarini-Anlamak/Class-Yapilarini-Anlamak/obj/Debug/net7.0/Class-Yapilarini-Anlamak.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/RiderProjects/Class-Yapilarini-Anlamak/Class-Yapilarini-Anlamak/obj/Debug/net7.0/Class-Yapilarini-Anlamak.dll
+/Users/osmanbatuhankalkan/RiderProjects/Class-Yapilarini-Anlamak/Class-Yapilarini-Anlamak/obj/Debug/net7.0/refint/Class-Yapilarini-Anlamak.dll
+/Users/osmanbatuhankalkan/RiderProjects/Class-Yapilarini-Anlamak/Class-Yapilarini-Anlamak/obj/Debug/net7.0/Class-Yapilarini-Anlamak.pdb
+/Users/osmanbatuhankalkan/RiderProjects/Class-Yapilarini-Anlamak/Class-Yapilarini-Anlamak/obj/Debug/net7.0/Class-Yapilarini-Anlamak.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/RiderProjects/Class-Yapilarini-Anlamak/Class-Yapilarini-Anlamak/obj/Debug/net7.0/ref/Class-Yapilarini-Anlamak.dll
