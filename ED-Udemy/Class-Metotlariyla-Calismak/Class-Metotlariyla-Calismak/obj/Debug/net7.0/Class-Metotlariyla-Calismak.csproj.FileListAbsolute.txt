@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/RiderProjects/Class-Metotlariyla-Calismak/Class-Metotlariyla-Calismak/bin/Debug/net7.0/Class-Metotlariyla-Calismak
+/Users/osmanbatuhankalkan/RiderProjects/Class-Metotlariyla-Calismak/Class-Metotlariyla-Calismak/bin/Debug/net7.0/Class-Metotlariyla-Calismak.deps.json
+/Users/osmanbatuhankalkan/RiderProjects/Class-Metotlariyla-Calismak/Class-Metotlariyla-Calismak/bin/Debug/net7.0/Class-Metotlariyla-Calismak.runtimeconfig.json
+/Users/osmanbatuhankalkan/RiderProjects/Class-Metotlariyla-Calismak/Class-Metotlariyla-Calismak/bin/Debug/net7.0/Class-Metotlariyla-Calismak.dll
+/Users/osmanbatuhankalkan/RiderProjects/Class-Metotlariyla-Calismak/Class-Metotlariyla-Calismak/bin/Debug/net7.0/Class-Metotlariyla-Calismak.pdb
+/Users/osmanbatuhankalkan/RiderProjects/Class-Metotlariyla-Calismak/Class-Metotlariyla-Calismak/obj/Debug/net7.0/Class-Metotlariyla-Calismak.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/RiderProjects/Class-Metotlariyla-Calismak/Class-Metotlariyla-Calismak/obj/Debug/net7.0/Class-Metotlariyla-Calismak.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/RiderProjects/Class-Metotlariyla-Calismak/Class-Metotlariyla-Calismak/obj/Debug/net7.0/Class-Metotlariyla-Calismak.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/RiderProjects/Class-Metotlariyla-Calismak/Class-Metotlariyla-Calismak/obj/Debug/net7.0/Class-Metotlariyla-Calismak.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/RiderProjects/Class-Metotlariyla-Calismak/Class-Metotlariyla-Calismak/obj/Debug/net7.0/Class-Metotlariyla-Calismak.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/RiderProjects/Class-Metotlariyla-Calismak/Class-Metotlariyla-Calismak/obj/Debug/net7.0/Class-Metotlariyla-Calismak.dll
+/Users/osmanbatuhankalkan/RiderProjects/Class-Metotlariyla-Calismak/Class-Metotlariyla-Calismak/obj/Debug/net7.0/refint/Class-Metotlariyla-Calismak.dll
+/Users/osmanbatuhankalkan/RiderProjects/Class-Metotlariyla-Calismak/Class-Metotlariyla-Calismak/obj/Debug/net7.0/Class-Metotlariyla-Calismak.pdb
+/Users/osmanbatuhankalkan/RiderProjects/Class-Metotlariyla-Calismak/Class-Metotlariyla-Calismak/obj/Debug/net7.0/Class-Metotlariyla-Calismak.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/RiderProjects/Class-Metotlariyla-Calismak/Class-Metotlariyla-Calismak/obj/Debug/net7.0/ref/Class-Metotlariyla-Calismak.dll
